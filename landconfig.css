@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    background-image: linear-gradient(#000000 0%, #aca1a5 100%); 
+    background-repeat: no-repeat;
+}
+.caixa{
+    background-color: rgba(142,36,170,0.3);
+}
