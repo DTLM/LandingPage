@@ -1,8 +1,17 @@
+html{
+    height: 100%;
+}
 body{
     margin: 0;
-    background-image: linear-gradient(#000000 0%, #aca1a5 100%); 
+    background-image: url(ima.jpg);
+    background-size: cover; 
     background-repeat: no-repeat;
 }
 .caixa{
     background-color: rgba(142,36,170,0.3);
+    font-family: 'Russo One', sans-serif;
+}
+.foto{
+    height: 90%;
+    width: 80%;
 }
