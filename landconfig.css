@@ -1,21 +1,26 @@
 html{
-    background-image: url(ima.jpg);
-    background-size: cover; 
-    background-repeat: no-repeat;
-    background-position: center;
+    height: 100%;
+    width: 100%;
 }
 body{
-    margin: 0;
     height: 100%;
+    width: 100%;
     background-image: url(ima.jpg);
     background-size: cover; 
     background-repeat: no-repeat;
+    position: fixed;
 }
 .caixa{
+    height: 90%;
+    width: 100%;
+    margin-top: 35px;
+    box-sizing: content-box;
+}
+.caixaInterior{
     background-color: rgba(45, 43, 184, 0.3);
     font-family: 'Russo One', sans-serif;
 }
 .foto{
-    height: 90%;
-    width: 80%;
+    height: 100%;
+    width: 100%;
 }
