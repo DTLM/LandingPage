@@ -11,9 +11,9 @@ body{
     position: fixed;
 }
 .caixa{
-    height: 90%;
+    height: 93%;
     width: 100%;
-    margin-top: 35px;
+    margin-top: 30px;
     box-sizing: content-box;
 }
 .caixaInterior{
